@@ -6,7 +6,7 @@ plugins: [jekyll-paginate]
 
 # Setup
 title:               Binfeng Pan
-tagline:             'Trajectory Optimization, Computaional Guidance and Control, Machine Learning'
+tagline:             'Professor'
 description:         'Menu'
 url:                 http://panbinfeng.github.io
 baseurl:             ''
