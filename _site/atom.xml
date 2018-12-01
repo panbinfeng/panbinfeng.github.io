@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Binfeng Pan</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2018-12-02T01:24:54+08:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Binfeng Pan</name>
+   <email>panbinfeng@nwpu.edu.cn</email>
+ </author>
+
+ 
+ <entry>
+   <title>Introducing</title>
+   <link href="http://localhost:4000/2018/11/12/introducing/"/>
+   <updated>2018-11-12T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2018/11/12/introducing</id>
+   <content type="html">&lt;h3 id=&quot;my&quot;&gt;my&lt;/h3&gt;
+
+&lt;p&gt;Thanks!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

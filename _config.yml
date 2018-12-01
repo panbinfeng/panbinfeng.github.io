@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+plugins: [jekyll-paginate]
+
+# Setup
+title:               Binfeng Pan
+tagline:             'Trajectory Optimization, Computaional Guidance and Control, Machine Learning'
+description:         'Menu'
+url:                 http://panbinfeng.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Binfeng Pan
+  url:               http://panbinfeng.github.io
+  email:             panbinfeng@nwpu.edu.cn
+
+# Custom vars
+version:             1.0.0
